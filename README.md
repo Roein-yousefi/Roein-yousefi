@@ -50,6 +50,7 @@ I enjoy building efficient, scalable systems and have a passion for exploring ne
 ## 🌱 I’m Currently Learning  
 <p>
   <img src="https://skillicons.dev/icons?i=postman" alt="postman-icon" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="golang" />
 </p>  
 
 ## 📊 GitHub Stats  
